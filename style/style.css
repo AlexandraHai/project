@@ -107,6 +107,148 @@
     border-radius: 28px;
 }
 
+
+
+/* Проба 2 екрану*/
+
+.container_second {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 136px auto;
+}
+
+.second_title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    max-width: 416px; 
+}
+
+.second_cards {
+    max-width: 702px;
+    display: flex;
+}
+
+.second-card {
+    font-size: 26px;
+    line-height: 22px;
+    text-align: center;
+    margin: 34px auto;
+}
+
+.second-text {
+    max-width: 220px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #6F2CFF;
+    margin: 28px auto;
+}
+
+.card {
+    max-width: 334px;
+    margin: 0 auto;
+    box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+    border-radius: 0px 0px 7px 7px;
+    margin-right: 34px;
+}
+
+/* .second {
+
+}
+
+.container_second {
+    margin: 136px auto;
+    display: flex;
+    justify-content: end;
+}
+
+.second_title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    max-width: 416px;
+}
+
+.card {
+    max-width: 334px;
+    margin: 0 auto;
+    box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+    border-radius: 0px 0px 7px 7px;
+}
+
+.second_img {
+    max-width: 332px;
+    height: 205px;
+}
+
+.second-card {
+    font-size: 26px;
+    line-height: 22px;
+    text-align: center;
+    margin: 34px auto;
+}
+
+.second-text {
+    max-width: 220px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #6F2CFF;
+    margin: 28px auto;
+} */
+
+/* Проба 3 екрану */
+
+.third {
+    margin-bottom: 140px;
+}
+
+.third_title-main {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    max-width: 416px;
+    text-align: center;
+    margin: 30px auto;
+    margin-bottom: 80px;
+}
+
+.third_card {
+    max-width: 314px;
+}
+
+.third_cards {
+    justify-content: space-around;
+    text-align: center;
+
+}
+  
+.img {
+    margin: 0 auto;
+    margin-bottom: 42px;
+}
+
+.third_title {
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.par {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+}
+
+/* Футер */
+
 .footer {
     background: #20003C;
     padding: 58px 0;
